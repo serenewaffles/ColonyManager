@@ -7,7 +7,7 @@ Colony Manager allows you to make colonists do the more tedious parts of managin
 Adds a worktype, which is stored in the world, which means you need to start a new game after adding/removing this mod. 
 
 **BETA VERSION**
-This is the first release on B18, and there were a lot of changes. The Production and Import & Export tabs are still disabled due to a lack of time. 
+This is a work in progress. Not all parts may be functioning or functioning correctly. 
 
 # Features
 **Hunting jobs**
@@ -65,10 +65,5 @@ All original content (e.g. text, imagery, sounds) in this mod is licensed under 
 
 Parts of the code in this mod, and some content may be licensed by their original authors. If this is the case, the original author & license will either be given in the source code, or be in a LICENSE file next to the content. Please do not decompile my mods, but use the original source code available on [GitHub](https://github.com/FluffierThanThou/ColonyManager/), so license information in the source code is preserved.
 
-# Are you enjoying my mods?
-Show your appreciation by buying me a coffee (or contribute towards a nice single malt).
-
-[![Buy Me a Coffee](http://i.imgur.com/EjWiUwx.gif)](https://ko-fi.com/fluffymods)
-
 # Version
-This is version 4.0.414, for RimWorld 1.0.2057.
+This is version 4.1.1, for RimWorld 1.0.2057.
