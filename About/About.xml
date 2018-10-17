@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ModMetaData>
   <name>Colony Manager</name>
-  <author>Fluffy</author>
+  <author>serenewaffles</author>
   <url>https://ludeon.com/forums/index.php?topic=16120.0</url>
   <targetVersion>1.0.2057</targetVersion>
   <description>Colony Manager allows you to make colonists do the more tedious parts of managing a colony, making sure you’re never out of vital resources again*. 
@@ -67,7 +67,7 @@ Alex TD:    Bugfix in forestry jobs, implement suspend button
 Firty:    Portuguese (Brazilian) translation
 
 &lt;size=24&gt;Version&lt;/size&gt;
-This is version 4.0.414, for RimWorld 1.0.2057.
+This is version 4.1.1, for RimWorld 1.0.2057.
 
 </description>
 </ModMetaData>
