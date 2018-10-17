@@ -2,8 +2,8 @@
 <Defs>
 
 	<ResearchTabDef>
-		<defName>RTMods</defName>
-		<label>RT Mods</label>
+		<defName>Manager</defName>
+		<label>Manager</label>
 	</ResearchTabDef>
 
 </Defs>
